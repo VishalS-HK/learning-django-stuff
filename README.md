@@ -1,1 +1,1 @@
-Learning Django
+<h1>Learning Django</h1>
